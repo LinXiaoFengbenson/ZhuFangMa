@@ -1,0 +1,49 @@
+/**index.wxss**/
+.choose_type{
+  margin-top: 80rpx;
+  display: flex;
+  align-items: center;
+  flex-direction: row
+}
+
+.userinfo {  
+  display: flex;
+  flex-direction: column;
+}
+
+.userinfo-avatar {
+  width: 128rpx;
+  height: 128rpx;
+  margin: 20rpx;
+  border-radius: 50%;
+}
+ 
+
+.bg_zuke{ 
+  width: 170rpx;
+  height: 170rpx;
+  margin: 10rpx;
+  color: #ffffff;
+  background: #ccaa55
+}
+
+.bg_zuke_press{
+  background: #b2b2b2
+}
+
+.bg_fangdong{
+  width: 170rpx;
+  height: 170rpx;
+  margin: 10rpx;
+  color: #ffffff;
+  background: #0066ab
+}
+
+.userinfo-nickname {
+  color: #aaa;
+}
+
+
+.usermotto {
+  margin-top: 50px;
+}
