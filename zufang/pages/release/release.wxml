@@ -1,0 +1,20 @@
+<view class="release_container">
+
+<view class="house_top_layout">
+
+  <input class="input" name="house_name"  placeholder='房屋小区名或地标性建筑'></input>
+
+  <view class='h_line'/>
+
+  <textarea class="input_house_desc" name="house_desc" placeholder='详细描述会为你带来最快速的成交哦'></textarea>
+
+  <button bindtap='openGrally'>选择图片</button>
+
+ <view class="house">
+      <view class="body-item" wx:for="{{houseImgs}}" wx:for-item="houseImg" wx:key="unique"> 
+          <image src="{{houseImg}}" mode="scaleToFill"></image> 
+      </view>
+    </view>
+</view>
+ 
+</view>

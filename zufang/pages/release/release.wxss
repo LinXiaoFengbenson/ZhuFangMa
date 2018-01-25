@@ -1,0 +1,13 @@
+.release_container{
+  margin: 22rpx;
+  background: #999999
+}
+
+.house_top_layout{
+  height: 500rpx;
+  background: #ffffff
+}
+
+.input_house_desc{
+  margin-top: 30rpx
+}

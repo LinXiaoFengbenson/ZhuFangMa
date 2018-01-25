@@ -19,25 +19,16 @@
 }
  
 
-.bg_zuke{ 
-  width: 170rpx;
-  height: 170rpx;
-  margin: 10rpx;
-  color: #ffffff;
-  background: #ccaa55
+.bg_fabu{  
+  width: 150rpx;
+  height: 150rpx;
+  color: #ffffff;  
+  background: #ccaa55; 
 }
-
-.bg_zuke_press{
-  background: #b2b2b2
-}
-
-.bg_fangdong{
-  width: 170rpx;
-  height: 170rpx;
-  margin: 10rpx;
-  color: #ffffff;
-  background: #0066ab
-}
+ 
+.bg_fabu_press{
+  background: #b2b2b2;
+} 
 
 .userinfo-nickname {
   color: #aaa;
