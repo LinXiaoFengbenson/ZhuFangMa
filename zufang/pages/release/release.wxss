@@ -11,3 +11,20 @@
 .input_house_desc{
   margin-top: 30rpx
 }
+
+.house{ 
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.house .body-item{
+  width: 20%;
+  height: 200rpx;
+  background: #ccc;
+  margin: 5px;
+  position: relative;
+  overflow: hidden; 
+}
+ 

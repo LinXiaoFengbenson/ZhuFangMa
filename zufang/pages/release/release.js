@@ -4,7 +4,12 @@ Page({
    * 页面的初始数据
    */
   data: {
-    houseImgs:[]
+    houseImgs: [
+      '../../images/pages/pic1.jpg',
+      '../../images/pages/pic2.jpg',
+      '../../images/pages/pic3.jpg',
+      '../../images/pages/pic4.jpg',
+      ]
   },
  
   /**

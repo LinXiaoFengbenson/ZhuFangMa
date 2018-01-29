@@ -38,3 +38,11 @@
 .usermotto {
   margin-top: 50px;
 }
+
+.body{
+  display: flex;
+}
+
+.body .body-item{
+  width: 300rpx;
+}
